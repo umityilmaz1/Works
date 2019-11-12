@@ -1,0 +1,8 @@
+C:\Users\umity\Source\Repos\umtylmz\Works\OzenIpTv\OzenIpTvChannelListToDatabase\bin\Debug\OzenIpTvChannelListToDatabase.exe.config
+C:\Users\umity\Source\Repos\umtylmz\Works\OzenIpTv\OzenIpTvChannelListToDatabase\bin\Debug\OzenIpTvChannelListToDatabase.exe
+C:\Users\umity\Source\Repos\umtylmz\Works\OzenIpTv\OzenIpTvChannelListToDatabase\bin\Debug\OzenIpTvChannelListToDatabase.pdb
+C:\Users\umity\Source\Repos\umtylmz\Works\OzenIpTv\OzenIpTvChannelListToDatabase\obj\Debug\OzenIpTvChannelListToDatabase.csprojAssemblyReference.cache
+C:\Users\umity\Source\Repos\umtylmz\Works\OzenIpTv\OzenIpTvChannelListToDatabase\obj\Debug\OzenIpTvChannelListToDatabase.Properties.Resources.resources
+C:\Users\umity\Source\Repos\umtylmz\Works\OzenIpTv\OzenIpTvChannelListToDatabase\obj\Debug\OzenIpTvChannelListToDatabase.csproj.GenerateResource.cache
+C:\Users\umity\Source\Repos\umtylmz\Works\OzenIpTv\OzenIpTvChannelListToDatabase\obj\Debug\OzenIpTvChannelListToDatabase.exe
+C:\Users\umity\Source\Repos\umtylmz\Works\OzenIpTv\OzenIpTvChannelListToDatabase\obj\Debug\OzenIpTvChannelListToDatabase.pdb

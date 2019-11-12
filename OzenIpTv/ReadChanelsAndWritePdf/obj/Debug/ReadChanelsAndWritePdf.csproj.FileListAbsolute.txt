@@ -1,0 +1,10 @@
+C:\Users\umity\source\repos\umtylmz\Works\OzenIpTv\ReadChanelsAndWritePdf\bin\Debug\ReadChanelsAndWritePdf.exe.config
+C:\Users\umity\source\repos\umtylmz\Works\OzenIpTv\ReadChanelsAndWritePdf\bin\Debug\ReadChanelsAndWritePdf.exe
+C:\Users\umity\source\repos\umtylmz\Works\OzenIpTv\ReadChanelsAndWritePdf\bin\Debug\ReadChanelsAndWritePdf.pdb
+C:\Users\umity\source\repos\umtylmz\Works\OzenIpTv\ReadChanelsAndWritePdf\obj\Debug\ReadChanelsAndWritePdf.csprojAssemblyReference.cache
+C:\Users\umity\source\repos\umtylmz\Works\OzenIpTv\ReadChanelsAndWritePdf\obj\Debug\ReadChanelsAndWritePdf.Form1.resources
+C:\Users\umity\source\repos\umtylmz\Works\OzenIpTv\ReadChanelsAndWritePdf\obj\Debug\ReadChanelsAndWritePdf.Properties.Resources.resources
+C:\Users\umity\source\repos\umtylmz\Works\OzenIpTv\ReadChanelsAndWritePdf\obj\Debug\ReadChanelsAndWritePdf.csproj.GenerateResource.cache
+C:\Users\umity\source\repos\umtylmz\Works\OzenIpTv\ReadChanelsAndWritePdf\obj\Debug\ReadChanelsAndWritePdf.exe
+C:\Users\umity\source\repos\umtylmz\Works\OzenIpTv\ReadChanelsAndWritePdf\obj\Debug\ReadChanelsAndWritePdf.pdb
+C:\Users\umity\source\repos\umtylmz\Works\OzenIpTv\ReadChanelsAndWritePdf\obj\Debug\ReadChanelsAndWritePdf.csproj.ResolveComReference.cache

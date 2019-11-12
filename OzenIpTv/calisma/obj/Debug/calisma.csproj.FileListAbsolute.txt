@@ -1,0 +1,8 @@
+C:\Users\umity\source\repos\umtylmz\Works\OzenIpTv\calisma\bin\Debug\calisma.exe.config
+C:\Users\umity\source\repos\umtylmz\Works\OzenIpTv\calisma\bin\Debug\calisma.exe
+C:\Users\umity\source\repos\umtylmz\Works\OzenIpTv\calisma\bin\Debug\calisma.pdb
+C:\Users\umity\source\repos\umtylmz\Works\OzenIpTv\calisma\obj\Debug\calisma.Form1.resources
+C:\Users\umity\source\repos\umtylmz\Works\OzenIpTv\calisma\obj\Debug\calisma.Properties.Resources.resources
+C:\Users\umity\source\repos\umtylmz\Works\OzenIpTv\calisma\obj\Debug\calisma.csproj.GenerateResource.cache
+C:\Users\umity\source\repos\umtylmz\Works\OzenIpTv\calisma\obj\Debug\calisma.exe
+C:\Users\umity\source\repos\umtylmz\Works\OzenIpTv\calisma\obj\Debug\calisma.pdb
